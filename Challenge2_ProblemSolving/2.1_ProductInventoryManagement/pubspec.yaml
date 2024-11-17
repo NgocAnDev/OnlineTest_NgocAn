@@ -1,0 +1,17 @@
+name: challenge_2_1
+description: A new Flutter project
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"  
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.20.0
+ 
+
+dev_dependencies:
+  test: ^1.25.2
+
+flutter:
+  uses-material-design: true

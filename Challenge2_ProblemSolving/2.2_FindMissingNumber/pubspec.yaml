@@ -1,0 +1,11 @@
+name : challenge_2_2
+description: FindMissingNumber
+environment:
+  sdk: ">= 3.4.0 < 4.0.0" 
+dependencies: 
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  test: ^1.25.0
+flutter:
+  uses-material-design: true 
